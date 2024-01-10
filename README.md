@@ -136,6 +136,7 @@ p.note { display: none; }
 <a href="20240110_003.JPG" data-lightbox="abc"><img src="20240110_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_004.JPG" data-lightbox="abc"><img src="20240110_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_005.JPG" data-lightbox="abc"><img src="20240110_005.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">近所のお寺の僧侶が朝から修行で歩きます</span></h2>
 <a href="20240110_006.JPG" data-lightbox="abc"><img src="20240110_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_007.JPG" data-lightbox="abc"><img src="20240110_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_008.JPG" data-lightbox="abc"><img src="20240110_008.JPG" alt="サンプル画像" width="900" /></a>
@@ -145,9 +146,11 @@ p.note { display: none; }
 <a href="20240110_012.JPG" data-lightbox="abc"><img src="20240110_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_013.JPG" data-lightbox="abc"><img src="20240110_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_014.JPG" data-lightbox="abc"><img src="20240110_014.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">地方の観光スポットは、この先に本当にあるの？みたいなところにあります</span></h2>
 <a href="20240110_015.JPG" data-lightbox="abc"><img src="20240110_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_016.JPG" data-lightbox="abc"><img src="20240110_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_017.JPG" data-lightbox="abc"><img src="20240110_017.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">タイ北端、展望スポットに到着</span></h2>
 <a href="20240110_018.JPG" data-lightbox="abc"><img src="20240110_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_019.JPG" data-lightbox="abc"><img src="20240110_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_020.JPG" data-lightbox="abc"><img src="20240110_020.JPG" alt="サンプル画像" width="900" /></a>
@@ -162,6 +165,7 @@ p.note { display: none; }
 <a href="20240110_029.JPG" data-lightbox="abc"><img src="20240110_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_030.JPG" data-lightbox="abc"><img src="20240110_030.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_031.JPG" data-lightbox="abc"><img src="20240110_031.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">完全に元はとったと思われるHondaのバイクはまだ稼働中</span></h2>
 <a href="20240110_032.JPG" data-lightbox="abc"><img src="20240110_032.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_033.JPG" data-lightbox="abc"><img src="20240110_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_034.JPG" data-lightbox="abc"><img src="20240110_034.JPG" alt="サンプル画像" width="900" /></a>
@@ -170,9 +174,11 @@ p.note { display: none; }
 <a href="20240110_037.JPG" data-lightbox="abc"><img src="20240110_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_038.JPG" data-lightbox="abc"><img src="20240110_038.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_039.JPG" data-lightbox="abc"><img src="20240110_039.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">メコン川の向こう、高層ビル群はラオスのカジノスポット</span></h2>
 <a href="20240110_040.JPG" data-lightbox="abc"><img src="20240110_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_041.JPG" data-lightbox="abc"><img src="20240110_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_042.JPG" data-lightbox="abc"><img src="20240110_042.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">振り返るとタイの田園地帯</span></h2>
 <a href="20240110_043.JPG" data-lightbox="abc"><img src="20240110_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_044.JPG" data-lightbox="abc"><img src="20240110_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_045.JPG" data-lightbox="abc"><img src="20240110_045.JPG" alt="サンプル画像" width="900" /></a>
@@ -181,12 +187,16 @@ p.note { display: none; }
 <a href="20240110_048.JPG" data-lightbox="abc"><img src="20240110_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_049.JPG" data-lightbox="abc"><img src="20240110_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_050.JPG" data-lightbox="abc"><img src="20240110_050.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">山を降りて次のポイントに移動します</span></h2>
 <a href="20240110_051.JPG" data-lightbox="abc"><img src="20240110_051.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">仏教的リソースに注ぐエネルギーは、日本人の想像を遥かに超えています</span></h2>
 <a href="20240110_052.JPG" data-lightbox="abc"><img src="20240110_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_053.JPG" data-lightbox="abc"><img src="20240110_053.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">移動に使った車と記念撮影</span></h2>
 <a href="20240110_054.JPG" data-lightbox="abc"><img src="20240110_054.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_055.JPG" data-lightbox="abc"><img src="20240110_055.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_056.JPG" data-lightbox="abc"><img src="20240110_056.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">メコン川のほとりに到着、対岸はラオス</span></h2>
 <a href="20240110_057.JPG" data-lightbox="abc"><img src="20240110_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_058.JPG" data-lightbox="abc"><img src="20240110_058.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_059.JPG" data-lightbox="abc"><img src="20240110_059.JPG" alt="サンプル画像" width="900" /></a>
@@ -248,7 +258,9 @@ p.note { display: none; }
 <a href="20240110_115.JPG" data-lightbox="abc"><img src="20240110_115.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_116.JPG" data-lightbox="abc"><img src="20240110_116.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_117.JPG" data-lightbox="abc"><img src="20240110_117.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">最後は街の市場でお買い物</span></h2>
 <a href="20240110_118.JPG" data-lightbox="abc"><img src="20240110_118.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">アジアンチックな食材が多数</span></h2>
 <a href="20240110_119.JPG" data-lightbox="abc"><img src="20240110_119.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_120.JPG" data-lightbox="abc"><img src="20240110_120.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_121.JPG" data-lightbox="abc"><img src="20240110_121.JPG" alt="サンプル画像" width="900" /></a>
@@ -257,11 +269,15 @@ p.note { display: none; }
 <a href="20240110_124.JPG" data-lightbox="abc"><img src="20240110_124.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_125.JPG" data-lightbox="abc"><img src="20240110_125.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_126.JPG" data-lightbox="abc"><img src="20240110_126.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">どら焼き発見d</span></h2>
 <a href="20240110_127.JPG" data-lightbox="abc"><img src="20240110_127.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">中身は全然違います</span></h2>
 <a href="20240110_128.JPG" data-lightbox="abc"><img src="20240110_128.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">〆の食材調達は屋台</span></h2>
 <a href="20240110_129.JPG" data-lightbox="abc"><img src="20240110_129.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240110_130.JPG" data-lightbox="abc"><img src="20240110_130.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_131.JPG" data-lightbox="abc"><img src="20240110_131.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">対岸のラオス側は夜が賑わってます</span></h2>
+<a href="20240110_130.JPG" data-lightbox="abc"><img src="20240110_130.JPG" alt="サンプル画像" width="900" /></a>
 
 
 

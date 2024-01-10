@@ -184,11 +184,12 @@ p.note { display: none; }
 <a href="20240110_044.JPG" data-lightbox="abc"><img src="20240110_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_045.JPG" data-lightbox="abc"><img src="20240110_045.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_046.JPG" data-lightbox="abc"><img src="20240110_046.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">山を降りてラオスのカジノエリア対岸に移動します</span></h2>
 <a href="20240110_047.JPG" data-lightbox="abc"><img src="20240110_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_048.JPG" data-lightbox="abc"><img src="20240110_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_049.JPG" data-lightbox="abc"><img src="20240110_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_050.JPG" data-lightbox="abc"><img src="20240110_050.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">山を降りて次のポイントに移動します</span></h2>
+<h2><span class="yellow">さらに移動します</span></h2>
 <a href="20240110_051.JPG" data-lightbox="abc"><img src="20240110_051.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">仏教的リソースに注ぐエネルギーは、日本人の想像を遥かに超えています</span></h2>
 <a href="20240110_052.JPG" data-lightbox="abc"><img src="20240110_052.JPG" alt="サンプル画像" width="900" /></a>

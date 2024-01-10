@@ -157,6 +157,7 @@ p.note { display: none; }
 <a href="20240110_021.JPG" data-lightbox="abc"><img src="20240110_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_022.JPG" data-lightbox="abc"><img src="20240110_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_023.JPG" data-lightbox="abc"><img src="20240110_023.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">白人さん、屋根に登っちゃいました</span></h2>
 <a href="20240110_024.JPG" data-lightbox="abc"><img src="20240110_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_025.JPG" data-lightbox="abc"><img src="20240110_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_026.JPG" data-lightbox="abc"><img src="20240110_026.JPG" alt="サンプル画像" width="900" /></a>

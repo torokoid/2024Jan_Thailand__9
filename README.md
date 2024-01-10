@@ -229,6 +229,12 @@ p.note { display: none; }
 <a href="20240110_070.JPG" data-lightbox="abc"><img src="20240110_070.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_071.JPG" data-lightbox="abc"><img src="20240110_071.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_072.JPG" data-lightbox="abc"><img src="20240110_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240110_106.JPG" data-lightbox="abc"><img src="20240110_106.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240110_107.JPG" data-lightbox="abc"><img src="20240110_107.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240110_108.JPG" data-lightbox="abc"><img src="20240110_108.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240110_109.JPG" data-lightbox="abc"><img src="20240110_109.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240110_110.JPG" data-lightbox="abc"><img src="20240110_110.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240110_111.JPG" data-lightbox="abc"><img src="20240110_111.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">9人分のお昼代は1460バーツ 約6000円 </span></h2>
 <a href="20240110_073.JPG" data-lightbox="abc"><img src="20240110_073.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_074.JPG" data-lightbox="abc"><img src="20240110_074.JPG" alt="サンプル画像" width="900" /></a>
@@ -252,12 +258,7 @@ p.note { display: none; }
 
 <a href="20240110_104.JPG" data-lightbox="abc"><img src="20240110_104.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_105.JPG" data-lightbox="abc"><img src="20240110_105.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240110_106.JPG" data-lightbox="abc"><img src="20240110_106.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240110_107.JPG" data-lightbox="abc"><img src="20240110_107.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240110_108.JPG" data-lightbox="abc"><img src="20240110_108.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240110_109.JPG" data-lightbox="abc"><img src="20240110_109.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240110_110.JPG" data-lightbox="abc"><img src="20240110_110.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240110_111.JPG" data-lightbox="abc"><img src="20240110_111.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20240110_112.JPG" data-lightbox="abc"><img src="20240110_112.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_113.JPG" data-lightbox="abc"><img src="20240110_113.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_114.JPG" data-lightbox="abc"><img src="20240110_114.JPG" alt="サンプル画像" width="900" /></a>

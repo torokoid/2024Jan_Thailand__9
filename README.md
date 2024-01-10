@@ -223,6 +223,7 @@ p.note { display: none; }
 <a href="20240110_076.JPG" data-lightbox="abc"><img src="20240110_076.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_077.JPG" data-lightbox="abc"><img src="20240110_077.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_078.JPG" data-lightbox="abc"><img src="20240110_078.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">中国資本がメコン川に橋をかけて、タイとラオス陸路で繋ぎました</span></h2>
 <a href="20240110_079.JPG" data-lightbox="abc"><img src="20240110_079.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_080.JPG" data-lightbox="abc"><img src="20240110_080.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_081.JPG" data-lightbox="abc"><img src="20240110_081.JPG" alt="サンプル画像" width="900" /></a>

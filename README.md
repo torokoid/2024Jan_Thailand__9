@@ -276,7 +276,7 @@ p.note { display: none; }
 <a href="20240110_124.JPG" data-lightbox="abc"><img src="20240110_124.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_125.JPG" data-lightbox="abc"><img src="20240110_125.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_126.JPG" data-lightbox="abc"><img src="20240110_126.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">どら焼き発見d</span></h2>
+<h2><span class="yellow">どら焼きを購入</span></h2>
 <a href="20240110_127.JPG" data-lightbox="abc"><img src="20240110_127.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">中身は全然違います</span></h2>
 <a href="20240110_128.JPG" data-lightbox="abc"><img src="20240110_128.JPG" alt="サンプル画像" width="900" /></a>

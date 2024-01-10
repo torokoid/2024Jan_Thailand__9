@@ -129,8 +129,8 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 <br><p>タイ観光</p>
-<h2><span class="yellow">9日はチェンライでの日常を記録します！</span></h2>
-<h2><span class="yellow">真夏の陽射しは、<br>夏休みに田舎のおじいちゃんのうちに遊びに行ったことを思い起こさせます</span></h2>
+<h2><span class="yellow">10日はチェンライから北上、ラオス国境のメコン川流域を散策！</span></h2>
+<h2><span class="yellow">朝食は早々にすませます</span></h2>
 <a href="20240110_001.JPG" data-lightbox="abc"><img src="20240110_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_002.JPG" data-lightbox="abc"><img src="20240110_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_003.JPG" data-lightbox="abc"><img src="20240110_003.JPG" alt="サンプル画像" width="900" /></a>

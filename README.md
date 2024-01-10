@@ -212,9 +212,11 @@ p.note { display: none; }
 <a href="20240110_067.JPG" data-lightbox="abc"><img src="20240110_067.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_068.JPG" data-lightbox="abc"><img src="20240110_068.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_069.JPG" data-lightbox="abc"><img src="20240110_069.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">海苔をごま油で揚げたおつまみが美味</span></h2>
 <a href="20240110_070.JPG" data-lightbox="abc"><img src="20240110_070.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_071.JPG" data-lightbox="abc"><img src="20240110_071.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_072.JPG" data-lightbox="abc"><img src="20240110_072.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">9人分のお昼代は1460バーツ 約6000円 </span></h2>
 <a href="20240110_073.JPG" data-lightbox="abc"><img src="20240110_073.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_074.JPG" data-lightbox="abc"><img src="20240110_074.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240110_075.JPG" data-lightbox="abc"><img src="20240110_075.JPG" alt="サンプル画像" width="900" /></a>

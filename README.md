@@ -123,7 +123,7 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/01/10 、チェンライでの日々 !!!</marquee></span></h1>
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>><a href="https://torokoid.github.io/2024Jan_Thailand__6/">Thailand__6</a>><a href="https://torokoid.github.io/2024Jan_Thailand__7/">Thailand__7</a>><a href="https://torokoid.github.io/2024Jan_Thailand__8/">Thailand__8</a>>Thailand__9</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>><a href="https://torokoid.github.io/2024Jan_Thailand__6/">Thailand__6</a>><a href="https://torokoid.github.io/2024Jan_Thailand__7/">Thailand__7</a>><a href="https://torokoid.github.io/2024Jan_Thailand__8/">Thailand__8</a>>Thailand__9><a href="https://torokoid.github.io/2024Jan_Thailand_10/">Thailand_10</a></p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
